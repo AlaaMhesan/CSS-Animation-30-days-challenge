@@ -26,7 +26,7 @@ Each day, I'll add a new project folder to this repository containing:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AlaaMhesan/30-days-css-animation.git
+   https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge.git
    ```
 2. Navigate to the project folder of your choice.
 3. Open the `index.html` file in your browser to view the animation.
