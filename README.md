@@ -39,9 +39,6 @@ I'll be sharing my progress on LinkedIn and other platforms. Follow me to see up
 ## Contribute
 Have suggestions or ideas for animations? Feel free to open an issue or share your ideas!
 
-## License
-This project is open-source under the [MIT License](LICENSE).
-
 ---
 
 Let's make the web more animated! 🚀
