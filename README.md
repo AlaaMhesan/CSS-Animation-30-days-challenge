@@ -20,6 +20,7 @@ Each day, I'll add a new project folder to this repository containing:
 | Day | Project Name      | Description                | Demo Link   |
 |-----|-------------------|----------------------------|-------------|
 | 1   | Flaoting Text     | Text Animation             | [Flaoting Text](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Floating%20Text) |
+| 2   | Text Rotator the Content    | Text Animation             | [Text Rotator the Content ](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Text%20Rotator%20the%20Content) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
