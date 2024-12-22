@@ -21,6 +21,7 @@ Each day, I'll add a new project folder to this repository containing:
 |-----|-------------------|----------------------------|-------------|
 | 1   | Flaoting Text     | Text Animation             | [Flaoting Text](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Floating%20Text) |
 | 2   | Text Rotator the Content    | Text Animation             | [Text Rotator the Content ](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Text%20Rotator%20the%20Content) |
+| 3   | Red slider animated button    | button Animation             | [Red slider animated button](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Red%20slider%20animated%20button) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
