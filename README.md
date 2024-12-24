@@ -23,6 +23,7 @@ Each day, I'll add a new project folder to this repository containing:
 | 2   | Text Rotator the Content    | Text Animation             | [Text Rotator the Content ](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Text%20Rotator%20the%20Content) |
 | 3   | Red slider animated button    | button Animation             | [Red slider animated button](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Red%20slider%20animated%20button) |
 | 4   | Lighting Text    | Text Animation             | [Lighting Text](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/lighting%20text) |
+| 5   | Button shaking hover effect    | Button Animation             | [Button shaking hover effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Button%20shaking%20hover%20effect) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
