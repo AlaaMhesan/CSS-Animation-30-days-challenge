@@ -24,6 +24,7 @@ Each day, I'll add a new project folder to this repository containing:
 | 3   | Red slider animated button    | button Animation             | [Red slider animated button](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Red%20slider%20animated%20button) |
 | 4   | Lighting Text    | Text Animation             | [Lighting Text](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/lighting%20text) |
 | 5   | Button shaking hover effect    | Button Animation             | [Button shaking hover effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Button%20shaking%20hover%20effect) |
+| 6   | Driving a car and a motor bike    | Background Animation             | [Driving a car and a motor bike](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Driving%20a%20car%20and%20a%20motor%20bike) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
