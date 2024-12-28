@@ -26,6 +26,7 @@ Each day, I'll add a new project folder to this repository containing:
 | 5   | Button shaking hover effect    | Button Animation             | [Button shaking hover effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Button%20shaking%20hover%20effect) |
 | 6   | Driving a car and a motor bike    | Background Animation             | [Driving a car and a motor bike](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Driving%20a%20car%20and%20a%20motor%20bike) |
 | 7   | Text fade in - out    | Text Animation             | [Text fade in - out](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Text%20fade%20in%20-%20out) |
+| 8   | Loading Text Animation    | Text Animation             | [Loading Text Animation](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Loading%20Text%20Animation) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
