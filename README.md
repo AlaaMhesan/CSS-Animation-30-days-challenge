@@ -29,6 +29,7 @@ Each day, I'll add a new project folder to this repository containing:
 | 8   | Loading Text Animation    | Text Animation             | [Loading Text Animation](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Loading%20Text%20Animation) |
 | 9   | Happy new year    | Text Animation             | [Happy new year](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Happy%20new%20year) |
 | 10  | Wavy effect    | Text Animation             | [Wavy effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Wavy%20effec) |
+| 11  |  Animated text background   | Text Animation             | [ Animated text background](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Animated%20text%20background) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
