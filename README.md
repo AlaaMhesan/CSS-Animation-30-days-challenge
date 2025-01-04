@@ -31,6 +31,7 @@ Each day, I'll add a new project folder to this repository containing:
 | 10  | Wavy effect    | Text Animation             | [Wavy effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Wavy%20effec) |
 | 11  |  Animated text background   | Text Animation             | [ Animated text background](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Animated%20text%20background) |
 | 12  |  Menu Split Effect    | Menu Animation | [Menu Split Effect ](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Menu%20Split%20Effect%20) |
+| 13  |  Simple Images Slider Show    | Background Animation | [Simple Images Slider Show](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Simple%20Images%20Slider%20Show) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
