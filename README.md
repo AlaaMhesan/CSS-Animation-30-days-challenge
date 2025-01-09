@@ -33,6 +33,7 @@ Each day, I'll add a new project folder to this repository containing:
 | 12  |  Menu Split Effect    | Menu Animation | [Menu Split Effect ](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Menu%20Split%20Effect%20) |
 | 13  |  Simple Images Slider Show    | Background Animation | [Simple Images Slider Show](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Simple%20Images%20Slider%20Show) |
 | 14  |  4 square loading effect    | Loading Animation | [4 square loading effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/4%20square%20loading%20effect) |
+| 15  |  Nice moaving squares loading effect    | Loading Animation | [Nice moaving squares loading effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Nice%20moaving%20squares%20loading%20effect) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
