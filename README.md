@@ -36,6 +36,7 @@ Each day, I'll add a new project folder to this repository containing:
 | 15  |  Nice moaving squares loading effect    | Loading Animation | [Nice moaving squares loading effect](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Nice%20moaving%20squares%20loading%20effect) |
 | 16  | Fancy border loading    | Loading Animation | [Fancy border loading](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Fancy%20border%20oading) |
 | 17  | Background boxes growing    | Background Animation | [Background boxes growing](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Background%20boxes%20growing) |
+| 18  |  Growing lines loading   | Loading Animation | [Growing lines loading](https://github.com/AlaaMhesan/CSS-Animation-30-days-challenge/tree/main/The%20Project/Growing%20lines%20loading) |
 | ... | ...               | ...                        | ...         |
 
 ## How to Use
